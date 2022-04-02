@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Technical Experience](#technical-experience) | [Education](#education) | [Professional Experience](#professional-experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/ezekiel-kassim-190420169/)
 
-I am highly ambitious and determined. My excellent computer technology and maths skills has often given me a competitive edge when overcoming problems; thus, I thrive when handling quantitative complex matters involving numbers, equations, and technology. Being adept at anticipating and recognising problems and providing solutions by using statistical techniques and systematic approaches to analyse problems, gives me my desire for constant learning. c
+I am highly ambitious and determined. My excellent computer technology and maths skills has often given me a competitive edge when overcoming problems; thus, I thrive when handling quantitative complex matters involving numbers, equations, and technology. Being adept at anticipating and recognising problems and providing solutions by using statistical techniques and systematic approaches to analyse problems, gives me my desire for constant learning.
 
 ## Projects
 
@@ -12,7 +12,7 @@ Here are a few of the projects I have done that can be found on my github reposi
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
 | **Crosswordle** | Wordle inspired crossword puzzle | Python, React-JSX, Heroku | [Github](https://github.com/jessgordon/crosswordle)
 | **Acebook**     | Facebook clone | Ruby-on-Rails, RSpec-Capybara, PostgreSQL/Active Record, Travis-CI, Heroku | [Github](https://github.com/msc49/acebook-rails-template-simple) |
-| **Bookmark Manager**| SPA to show Guardian headlines | Ruby-on-Rails, SQL, RSpec-Capybara, Sinatra | [Github](https://github.com/KKassim/bookmark_manager) |
+| **Bookmark Manager**| A twitter clone on the backend but with bookmarks | Ruby-on-Rails, SQL, RSpec-Capybara, Sinatra | [Github](https://github.com/KKassim/bookmark_manager) |
 | **MakersBnB**| AirBnb clone | Ruby, Sinatra, RSpec-Capybara, PostgreSQL | [Github](https://github.com/Inimesh/airbnb_clone) |
 | **Bowlingcard Scorer**| Bowling scorecard | Ruby (to be completed and converted to JS) | [Github](https://github.com/KKassim/bowling-challenge-ruby) |
 | **Bank Statement Account**| Prints updatable banks statements showing credits, debits and balances | HTML | [Github](https://github.com/KKassim/bank_tech_test)
