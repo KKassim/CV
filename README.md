@@ -1,6 +1,6 @@
 ## Ezekiel Kassim
 
-[Projects](#projects) | [Technical Experience](#technical-experience) | [Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ezekiel-kassim-190420169/)
+[Projects](#projects) | [Technical Experience](#technical-experience) | [Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/ezekiel-kassim-190420169/)
 
 I am highly ambitious and determined. My excellent computer technology and maths skills has often given me a competitive edge when overcoming problems; thus, I thrive when handling quantitative complex matters involving numbers, equations, and technology. Being adept at anticipating and recognising problems and providing solutions by using statistical techniques and systematic approaches to analyse problems, gives me my desire for constant learning. c
 
